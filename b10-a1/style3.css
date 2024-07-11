@@ -1,0 +1,60 @@
+
+
+ .azeret-mono {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* shared style */
+.text-center{
+    text-align: center;
+}
+/* start */
+main{
+    max-width:1140px;
+    margin: 0px auto;
+     
+}
+.target{
+    width: 852px;
+    margin: 0px auto;
+}
+
+.tittle{
+    font-size:32px;
+    font-weight: bold;
+     
+}
+.description{
+    font-size: 18px;
+     
+}
+/* main div */
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 48px;
+    border: 1px solid rgb(214, 213, 213);
+    gap: 25px;
+    border-radius:18px;
+    
+}
+
+.jak-tittle{
+    font-size:24px;
+    font-weight: bold;
+}
+.jak-description{
+    font-size: 18px ;
+    color: #0D1321;
+
+}
+.jak{
+    font-weight: bold;
+    text-decoration:underline;
+}

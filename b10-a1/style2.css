@@ -1,0 +1,36 @@
+/* shared style */
+.text-center{
+    text-align: center;
+}
+/* start */
+
+
+ body{
+    max-width: 1440px;
+    margin: 0px auto;
+ }
+      
+section{
+    margin-bottom: 50px;
+}
+
+.tittle{
+    font-size: 32px;
+    font-weight: bold;
+}
+.description{
+    font-size: 18px;
+    width: 50%;
+    margin: 0px auto;
+}
+ .video{
+     
+    border: 1px solid black;
+    padding: 10px;
+      align-content: center;
+      width:970px;
+      margin: 0px auto;
+ }
+ 
+   
+ 
