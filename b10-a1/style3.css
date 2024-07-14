@@ -13,7 +13,10 @@
     text-align: center;
 }
 /* start */
-main{
+.nav-DD{
+    margin-top: 32px;
+}
+.main-D{
     max-width:1140px;
     margin: 0px auto;
      
@@ -23,18 +26,18 @@ main{
     margin: 0px auto;
 }
 
-.tittle{
+.tittle-D{
     font-size:32px;
     font-weight: bold;
      
 }
-.description{
+.description-D{
     font-size: 18px;
      
 }
 /* main div */
 
-nav{
+.nav-D{
     display: flex;
     align-items: center;
     justify-content: space-between;
